@@ -31,8 +31,12 @@
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | |
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+
+<!--START\_SECTION:activity-->
+<!--END\_SECTION:activity-->
+
+<!--RECENT\_ACTIVITY:start-->
+<!--RECENT\_ACTIVITY:last\_update-->
 ### 📫 Conectemos
 
 <p align="left">

@@ -32,6 +32,11 @@
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#3](https://github.com/GabrielMayorga/mokepon-programacion-basica/issues/3) in [GabrielMayorga/mokepon-programacion-basica](https://github.com/GabrielMayorga/mokepon-programacion-basica)
+2. 🎉 Merged PR [#4](https://github.com/GabrielMayorga/mokepon-programacion-basica/pull/4) in [GabrielMayorga/mokepon-programacion-basica](https://github.com/GabrielMayorga/mokepon-programacion-basica)
+3. 💪 Opened PR [#4](https://github.com/GabrielMayorga/mokepon-programacion-basica/pull/4) in [GabrielMayorga/mokepon-programacion-basica](https://github.com/GabrielMayorga/mokepon-programacion-basica)
+4. ❗ Opened issue [#3](https://github.com/GabrielMayorga/mokepon-programacion-basica/issues/3) in [GabrielMayorga/mokepon-programacion-basica](https://github.com/GabrielMayorga/mokepon-programacion-basica)
+5. 🔒 Closed issue [#2](https://github.com/GabrielMayorga/mokepon-programacion-basica/issues/2) in [GabrielMayorga/mokepon-programacion-basica](https://github.com/GabrielMayorga/mokepon-programacion-basica)
 <!--END_SECTION:activity-->
 
 ### 📫 Conectemos

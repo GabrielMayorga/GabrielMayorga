@@ -32,8 +32,8 @@
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/GabrielMayorga/TercerRepo/releases/tag/v0.1.0) in [GabrielMayorga/TercerRepo](https://github.com/GabrielMayorga/TercerRepo)
-2. 🎉 Merged PR [#4](https://github.com/GabrielMayorga/miTercerRepo/pull/4) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
+1. 🎉 Merged PR [#1](https://github.com/GabrielMayorga/dental-day-web/pull/1) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
+2. 💪 Opened PR [#1](https://github.com/GabrielMayorga/dental-day-web/pull/1) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
 3. 💪 Opened PR [#4](https://github.com/GabrielMayorga/miTercerRepo/pull/4) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
 4. 🎉 Merged PR [#3](https://github.com/GabrielMayorga/miTercerRepo/pull/3) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
 5. 💪 Opened PR [#3](https://github.com/GabrielMayorga/miTercerRepo/pull/3) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)

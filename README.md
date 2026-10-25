@@ -32,11 +32,11 @@
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GabrielMayorga/dental-day-web/pull/1) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
-2. 💪 Opened PR [#1](https://github.com/GabrielMayorga/dental-day-web/pull/1) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
-3. 💪 Opened PR [#4](https://github.com/GabrielMayorga/miTercerRepo/pull/4) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
-4. 🎉 Merged PR [#3](https://github.com/GabrielMayorga/miTercerRepo/pull/3) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
-5. 💪 Opened PR [#3](https://github.com/GabrielMayorga/miTercerRepo/pull/3) in [GabrielMayorga/miTercerRepo](https://github.com/GabrielMayorga/miTercerRepo)
+1. 🎉 Merged PR [#1](https://github.com/GabrielMayorga/dental-day-api/pull/1) in [GabrielMayorga/dental-day-api](https://github.com/GabrielMayorga/dental-day-api)
+2. 💪 Opened PR [#1](https://github.com/GabrielMayorga/dental-day-api/pull/1) in [GabrielMayorga/dental-day-api](https://github.com/GabrielMayorga/dental-day-api)
+3. 🎉 Merged PR [#2](https://github.com/GabrielMayorga/dental-day-web/pull/2) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
+4. 💪 Opened PR [#2](https://github.com/GabrielMayorga/dental-day-web/pull/2) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
+5. 🎉 Merged PR [#1](https://github.com/GabrielMayorga/dental-day-web/pull/1) in [GabrielMayorga/dental-day-web](https://github.com/GabrielMayorga/dental-day-web)
 <!--END_SECTION:activity-->
 
 ### 📫 Conectemos

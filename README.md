@@ -1,55 +1,66 @@
+<!-- Los SVG de /assets se generan con scripts/build_readme_assets.py. No los edites a mano. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Gabriel Mayorga. IA, automatización y desarrollo. Construyo software full-stack, automatizo procesos con IA y documento todo en público. Abierto a oportunidades. Ingeniero de sistemas en Nicaragua.">
+</picture>
+
 <p align="center">
-  <img src="./assets/banner.svg" alt="{GM} Gabriel Mayorga — IA, automatización y desarrollo" width="100%">
+  <a href="https://gabrielnuvix-web.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portafolio-dark.svg"><img src="./assets/btn-portafolio-light.svg" height="48" alt="Portafolio"></picture></a>
+  <a href="https://linkedin.com/in/gabriel-mf25"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" height="48" alt="LinkedIn"></picture></a>
+  <a href="mailto:gabrielmayorga1546@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-correo-dark.svg"><img src="./assets/btn-correo-light.svg" height="48" alt="Correo"></picture></a>
+  <a href="https://youtube.com/@gabrielmayorga5170"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-youtube-dark.svg"><img src="./assets/btn-youtube-light.svg" height="48" alt="YouTube"></picture></a>
 </p>
 
 <p align="center">
-  Ingeniero de sistemas en Nicaragua. Construyo software full-stack y automatizaciones con IA, y documento el proceso en público.
+  Ingeniero de sistemas en Nicaragua. Construyo software full-stack con Next.js y TypeScript,<br>
+  automatizo procesos con IA y comparto el proceso completo: decisiones, errores y aprendizajes.
 </p>
+
+<br>
+
+## Proyectos
 
 <p align="center">
-  <a href="https://gabrielmayorga-web.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=vercel&logoColor=3B82F6" alt="Portafolio"></a>
-  <a href="https://linkedin.com/in/gabriel-mf25"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"></a>
-  <a href="mailto:gabrielmayorga1546@gmail.com"><img src="https://img.shields.io/badge/Correo-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Correo"></a>
-  <a href="https://youtube.com/@gabrielmayorga5170"><img src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=3B82F6" alt="YouTube"></a>
+  <a href="https://github.com/GabrielMayorga/dental-day-web"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-dental-dark.svg"><img src="./assets/proyecto-dental-light.svg" width="49%" alt="Dental Cloud System: SaaS de gestión para clínicas dentales. Frontend y API en repos separados. Construyendo, con demo."></picture></a>
+  <a href="https://gabrielnuvix-web.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-portafolio-dark.svg"><img src="./assets/proyecto-portafolio-light.svg" width="49%" alt="Portafolio: sitio personal con modo claro y oscuro, desplegado en Vercel. Next.js 16, TypeScript y Tailwind v4. En producción."></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-lotify-dark.svg"><img src="./assets/proyecto-lotify-light.svg" width="49%" alt="Lotify: SaaS white-label para venta de lotes residenciales en LATAM. Construyendo."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-pdf-dark.svg"><img src="./assets/proyecto-pdf-light.svg" width="49%" alt="Conversor de PDF: herramientas de PDF en un solo lugar, conversión hoy y OCR en camino. Construyendo."></picture>
 </p>
 
-## { construyendo ahora }
+<p align="center"><sub>También construyendo: un constructor de CV con plantillas y exportación a PDF.</sub></p>
 
-| Proyecto | Qué es | Estado | Enlaces |
-|---|---|---|---|
-| **Dental Cloud System** | SaaS de gestión para clínicas dentales | Construyendo · demo disponible | [web](https://github.com/GabrielMayorga/dental-day-web) · [api](https://github.com/GabrielMayorga/dental-day-api) · [demo](URL_DEMO) |
-| **Portafolio** | Sitio personal en Next.js 16, TypeScript estricto y Tailwind v4 | En producción | [sitio](https://gabrielmayorga-web.vercel.app) |
-| **Lotify** | SaaS white-label para venta de lotes residenciales | Construyendo | — |
+## Stack
 
-También construyendo: un constructor de CV y un conversor de PDF.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nextjs,tailwind,vercel,linux,git,github&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,tailwind,vercel,linux,git,github&theme=light" alt="TypeScript, JavaScript, Next.js, Tailwind CSS, Vercel, Linux, Git y GitHub">
+  </picture>
+</p>
 
-## { stack }
+<p align="center"><sub>Además: SQL, PowerShell y Claude Code (skills, hooks y subagentes) sobre WSL2.</sub></p>
 
-**Lenguajes**
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=databricks&logoColor=3B82F6)
+## Cómo trabajo
 
-**Web**
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=3B82F6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/principios-dark.svg">
+  <img src="./assets/principios-light.svg" width="100%" alt="Cómo trabajo. Por fases: un commit por pieza terminada. En público: comparto decisiones, errores y aprendizajes. Con IA: mi flujo corre con Claude Code, con skills, hooks y subagentes.">
+</picture>
 
-**Infraestructura y entorno**
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=3B82F6)
-![Linux](https://img.shields.io/badge/Linux_·_WSL2-0F172A?style=flat-square&logo=linux&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=3B82F6)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0F172A?style=flat-square&logo=anthropic&logoColor=3B82F6)
+**Nuvix** es mi consultoría tecnológica en arranque: mantenimiento de hardware, desarrollo web y automatización con IA para negocios en Nicaragua.
 
-## { cómo trabajo }
+## Actividad
 
-- Por fases, con un commit por pieza terminada.
-- Construyo en público: decisiones, errores y lo que aprendo en cada proyecto.
-- **Nuvix** es mi consultoría tecnológica en arranque: mantenimiento de hardware, desarrollo web y automatización con IA para negocios en Nicaragua.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMayorga/GabrielMayorga/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/GabrielMayorga/GabrielMayorga/output/snake-light.svg" width="100%" alt="Animación de mis contribuciones del último año en GitHub">
+</picture>
 
-## { formación }
+## Formación
 
 9 cursos completados en [Platzi](https://platzi.com/p/gabrielmayorga1546646/): Linux, Git y GitHub, HTML, Prompt Engineering, oratoria y gestión del tiempo.
 
----
+<br>
 
 <p align="center"><sub>{GM} · Construyendo en público desde Nicaragua</sub></p>
